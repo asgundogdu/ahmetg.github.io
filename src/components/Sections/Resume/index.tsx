@@ -20,7 +20,7 @@ const Resume: FC = memo(() => {
           ))}
         </ResumeSection>
         <ResumeSection title="Skills">
-          <p className="pb-8">Here you can show a snapshot of your skills to show off to employers</p>
+                 <p className="pb-8">Python, Java, Scala - TensorFlow, Keras, PyTorch, OpenCV, PySpark, Neo4j, Apache Spark/Beam, Scio - Google Dataflow/AI Platform, AWS</p>
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
           </div>
         </ResumeSection>

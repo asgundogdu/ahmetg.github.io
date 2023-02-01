@@ -36,7 +36,6 @@ export const SectionId = {
     About: 'about',
   Resume: "resume",
   Contact: 'contact',
-  Skills: 'skills',
   Stats: 'stats',
 } as const;
 
@@ -94,8 +93,8 @@ export const aboutData: About = {
 export const experience: TimelineItem[] = [
   {
     date: 'March 2019 - Present',
-    location: 'Spotify',
-    title: 'Machine Learning Engineer. Boston, MA',
+    location: 'Spotify. Boston, MA',
+    title: 'Machine Learning Engineer',
     content: (
       <p>
            Worked on representation learning for Spotify users and tracks using large scale deep neural networks and music description platform using Kubeflow ML infrastructure to automatically describe and tag content for retrieval by multiple teams within the company.
