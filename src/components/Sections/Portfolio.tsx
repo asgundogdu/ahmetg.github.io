@@ -1,7 +1,6 @@
 import { FC, memo} from 'react';
 
 const Portfolio: FC = memo(() => {
-
     return (
             <div className="flex flex-col gap-y-8">
                 <h2 className="self-center text-xl font-bold text-white">Check out some of my work</h2>
@@ -9,7 +8,6 @@ const Portfolio: FC = memo(() => {
                 </div>
             </div>
     );
-
 });
 
 Portfolio.displayName = 'Portfolio';
