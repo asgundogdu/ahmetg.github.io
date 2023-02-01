@@ -1,10 +1,6 @@
 import {
   AcademicCapIcon,
-  CalendarIcon,
-  DownloadIcon,
-  FlagIcon,
   MapIcon,
-  SparklesIcon,
 } from '@heroicons/react/outline';
 import React from 'react';
 
