@@ -80,7 +80,7 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I am an machine learning enthuisast who love to build stuff, learning about new things and hike`,
+  description: `I am a machine learning enthuisast who love to build stuff and an outdoor adventurer.`,
   aboutItems: [
     {label: 'Location', text: 'Boston, MA', Icon: MapIcon},
     {label: 'Study', text: 'Northeastern University', Icon: AcademicCapIcon},
