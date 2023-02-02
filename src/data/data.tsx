@@ -52,12 +52,12 @@ export const heroData: Hero = {
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I am a <strong className="text-stone-100">Machine Learning Engineer</strong> at Spotify working on AI-powered music recommendations.
         I received my master degree in Computer & Information Science from Northeastern University. 
-        During my studies, my focus was machine learning and natural language process.
+        During my studies, my focus was machine learning and natural language processing.
         Specifically, I am interested in <strong className="text-stone-100">NLP</strong> techniques at Scale (i.e. language models, machine translation). In Spotify, I worked on different teams doing content description and <strong className="text-stone-100">user/track representation</strong> which powered most of the personalization tasks.
           </p>
 
           <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I co-host a podcast on artificial intelligence and machine learning called Veri Tezgahi.
+        I co-host a podcast on artificial intelligence and machine learning called Veri Tezgahi. (Currently, only available in Turkish)
           </p>
     </>
   ),
